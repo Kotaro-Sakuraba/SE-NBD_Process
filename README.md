@@ -2,7 +2,7 @@
 
 https://arxiv.org/abs/2301.06726
 
-We employ the time-rescaling theorem, which enable us to sample data more efficiently than the rejection method. 
+We develop an efficient sampling method for the marked Hawkes process based on the time-rescaling theorem and verify the power-law exponents.
 
 The time-rescaling theorem states that any point process with an integrable conditional intensity function can be transformed into a Poisson process with a unit rate. 
 
